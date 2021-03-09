@@ -50,6 +50,8 @@ Lines 9 and 16 specify CORS or no CORS (delete those lines for no cors)
 
 ### **DATABASE - sqlite3 module**
 
+---
+
 Assume a database in sqlite3 with schema as below. Steps to create the databese from csv files (consider movies.csv, ratings.csv see below for the schema)
 
 Create DB 
@@ -96,6 +98,9 @@ Import movies.csv (must have the above schema)
 ```
 
 ### **Nodejs**
+
+---
+
 See the package.json. To run use:
 
 ```bash
